@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "__node_handle": "cpp",
+        "vector": "cpp",
+        "random": "cpp",
+        "ostream": "cpp",
+        "utility": "cpp",
+        "memory": "cpp"
+    }
+}

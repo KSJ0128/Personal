@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "random": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "stack": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "__node_handle": "cpp",
+        "algorithm": "cpp"
+    }
+}

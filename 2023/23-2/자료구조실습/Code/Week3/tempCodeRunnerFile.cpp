@@ -1,0 +1,5 @@
+
+        BinaryNode* getParent() 
+        { 
+            return parent; 
+        }
